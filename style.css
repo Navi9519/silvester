@@ -1,0 +1,30 @@
+
+body {
+     
+    background-color: #FFE53B;
+    background-image: linear-gradient(147deg, #FFE53B 0%, #ff2529 74%);
+    
+}
+
+.headingtext {
+    color: white;
+    position: fixed;
+    left: 0;
+    
+
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+img{
+position: relative;
+left: 500px;
+width: 300px;
+height: 300px;
+
+}
+
+
